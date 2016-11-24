@@ -1,4 +1,4 @@
-This page lets you define users and roles within your organization to gain access to products and devices in this management portal.
+This page lets you define users and roles within your organization to get access to products and devices in this management portal.
 
 ## Two access levels:
 - "Partner admin" users are able to edit products and setup product versions and upgrade groups.
