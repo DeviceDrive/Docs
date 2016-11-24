@@ -11,14 +11,6 @@ A product version contains both the WRF01 firmware version and CLIENT firmware v
 Please let each line in the uploaded text file contain one mac address.
 Other semicolon separated fields are ignored, so that you can use a downloaded file of devices from the device page.
 
-E.g.
-```
-aabbccddee01
-aabbccddee02 ; Ignored field ; Other ignored field 
-aabbccddee03
-aabbccddee04
-```
-
 ## References:
 - [Videos](https://www.youtube.com/channel/UCPXLPuDVMSlcc-MEGhW1kGw)
 - [Docs](https://devicedrive.com/downloads/)
