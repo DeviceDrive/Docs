@@ -17,7 +17,7 @@ The mobile app will read the capabilities of the device and automatically render
 
 ## Forwarding
 Host your own cloud solution and forward all traffic to a given URL.
-you can easily try it out creating a URL using [this service](https://logrequest.com/). 
+You can easily try it out creating a URL using [logrequest.com](https://logrequest.com/). 
 
 ## References:
 * [Videos](https://www.youtube.com/channel/UCPXLPuDVMSlcc-MEGhW1kGw)
