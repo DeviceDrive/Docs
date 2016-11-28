@@ -1,4 +1,4 @@
-Create your own apps for your products. 
+Create your own apps for your products.
 Each app needs to authenticate to the cloud using the assigned app id and app secret to gain access to the selected products.
 
 # Get Stated
@@ -9,11 +9,10 @@ Each app needs to authenticate to the cloud using the assigned app id and app se
 5. Enter your app key and secret into the sample app
 6. Build your app for iOS or Android
 7. Try it out on your products
-8. Modify the app to match your specific needs 
+8. Modify the app to match your specific needs
 
 ## References:
 - [Videos](https://www.youtube.com/channel/UCPXLPuDVMSlcc-MEGhW1kGw)
 - [Docs](https://devicedrive.com/downloads/)
-- [GitHub](https://github.com/DeviceDrive) 
+- [GitHub](https://github.com/DeviceDrive)
 - [Nuget](https://www.nuget.org/profiles/devicedrive)
-
