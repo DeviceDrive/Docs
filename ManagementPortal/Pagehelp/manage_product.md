@@ -15,16 +15,9 @@ Use the DeviceDrive cloud and app framework.
 Make sure your device registers the introspection document representing the exact features of your device.
 The mobile app will read the capabilities of the device and automatically render the corresponding fields in the user screen.
 
-<a href='https://play.google.com/store/apps/details?id=com.homedrive.droid.app&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'
-style="display:inline-block;overflow:hidden; no-repeat;width:160px;height:auto;float:left; background-size:contain;">
-<img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/>
-</a>
+<a href='https://play.google.com/store/apps/details?id=com.homedrive.droid.app&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' style='display:inline-block;overflow:hidden; no-repeat;width:160px;height:auto;float:left; background-size:contain;'/></a>
 
-<a href="https://itunes.apple.com/us/app/devicedrive-playground/id1108807229?mt=8"
-style="display:inline-block;overflow:hidden;  no-repeat;width:135px;height:40px; margin:11px; background-size:contain;" >
-<img alt='Get it on App Store'
-src='http://linkmaker.itunes.apple.com/assets/shared/badges/en-gb/appstore-lrg.svg'/>
-</a>
+<a href='https://itunes.apple.com/us/app/devicedrive-playground/id1108807229?mt=8'><img alt='Get it on App Store'src='http://linkmaker.itunes.apple.com/assets/shared/badges/en-gb/appstore-lrg.svg' style='display:inline-block;overflow:hidden;  no-repeat;width:135px;height:40px; margin:11px; background-size:contain;'/></a>
 
 ## Forwarding
 Host your own cloud solution and forward all traffic to a given URL.
