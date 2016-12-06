@@ -2,7 +2,7 @@ Create your own apps for your products.
 Each app needs to authenticate to the cloud using the assigned app id and app secret to gain access to the selected products.
 
 # Get Stated
-1. [Watch the video](https://www.youtube.com/watch?v=ffu48lyhWfc&t=1s)
+1. [Watch the video](https://www.youtube.com/watch?v=iybLDIKp_8g)
 2. Make sure you can control your products in the DeviceDrive playground app. This app is able to control all products on behalf of the user.
 3. Register your new app and copy the app key and secret from this page.
 4. Download the Xamarin sample app from GitHub
