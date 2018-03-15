@@ -1,6 +1,6 @@
-This page allows you to upgrade a single device to a particular product version. MAC
-address (12 characters) must be known in advance. A product version contains
-both the WRF01 firmware version and CLIENT firmware version.
+This page allows you to upgrade a single device to a particular WRF01 firmware
+version. Please select the desired version from the box, than click Upgrade...
+button to schedule an upgrade.
 
 # Get Started
 1. [Watch the video](https://www.youtube.com/watch?v=ffu48lyhWfc&t=1s)
