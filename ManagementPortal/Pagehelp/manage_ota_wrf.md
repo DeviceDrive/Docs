@@ -8,6 +8,11 @@ button to schedule an upgrade.
 3. Implement support for OTA using the WRF01 upgrade commands.
 4. Fill in the form to upgrade particular device to a specific version.
 
+## Product Version list
+Drop down list line can be marked with letter:
+(C) - standing for *current* version
+(S) - standing for version *scheduled* to upgrade
+
 ## References:
 - [Videos](https://www.youtube.com/channel/UCPXLPuDVMSlcc-MEGhW1kGw)
 - [Docs](https://devicedrive.com/downloads/)
