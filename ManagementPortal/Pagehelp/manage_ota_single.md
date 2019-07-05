@@ -10,8 +10,8 @@ both the WRF01 firmware version and CLIENT firmware version.
 
 ## Product Version list
 Drop down list line can be marked with letter:
-(C) - standing for *current* version
-(S) - standing for version *scheduled* to upgrade
+(C) - stands for *current* version
+(S) - stands for version *scheduled* to upgrade
 
 ## References:
 - [Videos](https://www.youtube.com/channel/UCPXLPuDVMSlcc-MEGhW1kGw)
